@@ -14,7 +14,7 @@ variable "default_tags" {
   type        = map(string)
   description = "Map of default tags to assign to resources"
   default = {
-    "project" = "Deserie: AWS & HashiCorp Microservice"
+    "project" = "Deserie-AWS-HashiCorp-Microservice"
   }
 }
 
